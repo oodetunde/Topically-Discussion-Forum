@@ -3,3 +3,7 @@ require File.expand_path('../application', __FILE__)
 
 # Initialize the rails application
 Forum::Application.initialize!
+
+# add gem dependency
+#config.gem "authlogic"
+
