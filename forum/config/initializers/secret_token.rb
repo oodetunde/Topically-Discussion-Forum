@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Forum::Application.config.secret_token = 'ce01a5585b51b13e53ac3f1e629e6516e834ef13a60f013858339d503efe29deea606616998a7c8b586fe413510b83a02e5e2db1963be0ceeeac741784778ec8'
+Forum::Application.config.secret_token = 'c0a8ddf4a507335b8bb396ced23c2cb9b987f5bee4d97c39016a795448706451f4faab3495445020c51c968bf629c450b42bfd1f67d307caac4227aca77458f0'
